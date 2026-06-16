@@ -1,0 +1,6 @@
+{
+  "name": "SmartFlow AI",
+  "description": "An AI-powered Smart Traffic Management System that manages a four-way traffic intersection using real-time computer vision and machine learning simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
